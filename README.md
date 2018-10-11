@@ -1,2 +1,2 @@
 This repository applied cnn to image recognition of pathological imgages of blood tumor trying to predict diagnosis. Pappenheim stain is widely used as finding the abnormals of cells. The images are stained in near purple (rgb(xxxxxx)), then the background (red blood cells.etc) were removed and binary (white-black) converted. The images are from freely obtained from internet, but not in the download-available format.
-When in the two category of diagnosis, the accuracy were reached 0.5. I didnot squeeze any fearues and evaluate any parameters.
+When in the two category of diagnosis, the accuracy were reached 0.5. I didnot evalueate any fearues parameters yet.
